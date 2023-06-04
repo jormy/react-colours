@@ -1,4 +1,4 @@
-# `olour-viewer`
+# `colour-viewer`
 
 lets you view colours from their html colour names, like you always wanted to!
 <hr />

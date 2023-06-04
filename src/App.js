@@ -9,7 +9,7 @@ function App() {
   const [isDarkText, setIsDarkText] = useState(true);
 
   return (
-    <div className="App">
+    <div className="App min-h-screen flex flex-col justify-center items-center text-4xl bg-slate-800 font-mono">
       <Square
         colorValue={colorValue}
         hexValue={hexValue}

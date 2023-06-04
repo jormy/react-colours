@@ -1,6 +1,6 @@
-# `react-colours`
+# `olour-viewer`
 
-made with create-react-app 
+lets you view colours from their html colour names, like you always wanted to!
 <hr />
 
-heavily modified code based on @gitdagray's
+this code is not entirely mine, it is modified code based on @gitdagray's
